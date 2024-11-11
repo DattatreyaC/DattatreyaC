@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dattatreyac&label=Profile%20views&color=0e75b6&style=flat" alt="dattatreyac" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dattatreyac" alt="dattatreyac" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@dattatreyachak8" target="blank"><img src="https://img.shields.io/twitter/follow/@dattatreyachak8?logo=twitter&style=for-the-badge" alt="@dattatreyachak8" /></a> </p>
 
 - 📫 How to reach me **dattatreya.chakraborty12@gmail.com**
